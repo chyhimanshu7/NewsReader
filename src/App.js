@@ -35,7 +35,7 @@ return(
 //       backgroundImage: `url("https://img.freepik.com/free-vector/technology-background-with-earth-circuit-diagram_1017-19385.jpg?w=900&t=st=1720812945~exp=1720813545~hmac=e69c4c3f07dfd4a2fd17776218ecfbdb741ee7c9b771f79ab6e446560c237895")` 
 //     }}> */}
 <div>
-<Router>
+<Router basename='/NewsReader'>
 <Navbar/>
 
 <LoadingBar
